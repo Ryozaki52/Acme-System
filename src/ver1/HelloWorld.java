@@ -14,4 +14,5 @@ public class HelloWorld {
     public static void whatFor() {
         System.out.println("What for?");
     }
+
 }
