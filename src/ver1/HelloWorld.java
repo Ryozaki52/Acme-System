@@ -4,5 +4,6 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello from IntelliJ");
         System.out.println("Person1 is working locally on his branch");
+        System.out.println("Update from person1");
     }
 }
